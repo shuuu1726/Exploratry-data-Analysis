@@ -1,2 +1,14 @@
-# Exploratry-data-Analysis
-Performed Exploratory Data Analysis (EDA) on a layoffs dataset using SQL. Analyzed trends across companies, industries, locations, and time. Used aggregations, CTEs, and window functions to identify top companies, yearly patterns, and rolling totals, showcasing strong SQL and data analysis skills.
+📊 SQL EDA on Layoffs Dataset
+
+Performed Exploratory Data Analysis (EDA) using SQL to analyze layoffs data.
+
+🔍 Key Work:
+Found top companies, industries, and locations with highest layoffs
+Analyzed year-wise and monthly trends
+Identified companies with 100% layoffs
+Used CTE and window functions to rank top companies per year
+Calculated rolling total of layoffs over time
+🛠️ Skills Used:
+
+SQL, Aggregations, GROUP BY, CTE, Window Functions
+
